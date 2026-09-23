@@ -1,29 +1,20 @@
-### Hi I'm CxZMoE
-I'm nothing but a void walker.
+<p align="center">
+  <img src="assets/banner-cxzmoe.png" alt="CxZMoE 的动漫风格横幅：夜色海湾、黑发棕瞳的少年与一团小小的火球" width="100%" />
+</p>
 
-<!-- ![D-Sketon](https://count.getloli.com/get/@:D-Sketon) -->
-<img src="https://github.com/CxZMoE/CxZMoE/blob/21ad8371d8271524ec4c6d3296c997ac0a501a9d/assets/banner1.png?raw=true" width="500" />
+# Hi, I'm CxZMoE 👋
 
+> I'm nothing but a void walker. 🧙 Fire ball ~🔥
 
-## About 😊
-<!-- <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=D-Sketon&count_private=true"> </div> -->
-<!-- [![wakatime](https://wakatime.com/badge/user/a6ea8444-9e83-48bb-9744-09a19ac07114.svg)](https://wakatime.com/@a6ea8444-9e83-48bb-9744-09a19ac07114)     -->
-![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=fff)](#)
-![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)](#)
-[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](#)
+喜欢动画、音乐，也喜欢把想法写成能用的小工具。常用 Go、JavaScript / TypeScript 和 Python，作品大多围绕音乐播放、桌面应用与 Linux。
 
-## Metrics 👣
-<!-- <div align="center">
-  <img src="https://api.githubtrends.io/user/svg/D-Sketon/langs?time_range=one_year&theme=classic" alt="Most Used Languages" width="300"/>
-  <img src="https://api.githubtrends.io/user/svg/D-Sketon/repos?time_range=one_year&theme=classic&group=other" alt="Most Contributed Repositories" width="300" />
-</div>
-<br> -->
+*I build music players, desktop apps, and small tools.*
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=CxZMoE&theme=nord&row=1&column=7&no-frame=true&no-bg=true" /></div>
+## 一些作品 · Projects
+
+- 🎧 **[neteasemusic-cli](https://github.com/CxZMoE/neteasemusic-cli)** — 用 Go 写的 Linux 命令行网易云音乐播放器，支持无损音频、歌词和快捷键。
+- 🖥️ **[netease-music-container](https://github.com/CxZMoE/netease-music-container)** — 用 Electron 封装网页版网易云音乐的桌面播放器。
+- 🎵 **[music-api-ai](https://github.com/CxZMoE/music-api-ai)** — 用 Python 写的 Windows 终端本地音乐播放器，支持键盘控制与播放进度显示。
+- 🔊 **[bass-go](https://github.com/CxZMoE/bass-go)** — BASS 音频库的 Go 语言绑定。
+
+更多代码可以在[我的仓库](https://github.com/CxZMoE?tab=repositories)里找到。
