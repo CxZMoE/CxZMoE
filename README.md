@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-cxzmoe-v3.png" alt="CxZMoE 的动漫风格横幅：夜色海湾、黑发棕瞳的少年与一团小小的火球" width="100%" />
+  <img src="assets/banner-cxzmoe-refined.png" alt="CxZMoE 的动漫风格横幅：夜色海湾、黑发棕瞳的少年与一团小小的火球" width="100%" />
 </p>
 
 # Hi, I'm CxZMoE 👋
